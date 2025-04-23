@@ -1,2 +1,3 @@
-Estudando.
-git e github.
+Aprendendo.
+Commitando.
+Alterando.
