@@ -1,3 +1,1 @@
-Aprendendo.
-Commitando.
-Alterando.
+Começando.
